@@ -1,5 +1,4 @@
 Projeto compiladores: Compilador fase 1: Analise lexica e sintatica
-Pedro Roberto Fernandes Noronha, RA:10443434
  
  
 compilar
